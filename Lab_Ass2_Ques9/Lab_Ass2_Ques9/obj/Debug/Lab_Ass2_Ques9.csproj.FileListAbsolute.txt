@@ -1,0 +1,3 @@
+C:\Users\hp\source\repos\Lab_Ass2_Ques9\Lab_Ass2_Ques9\obj\Debug\Lab_Ass2_Ques9.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lab_Ass2_Ques9\Lab_Ass2_Ques9\obj\Debug\Lab_Ass2_Ques9.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Lab_Ass2_Ques9\Lab_Ass2_Ques9\obj\Debug\Lab_Ass2_Ques9.csproj.CoreCompileInputs.cache
